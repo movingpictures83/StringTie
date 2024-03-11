@@ -1,0 +1,3 @@
+gfffile	Homo_sapiens.GRCh38.87.gff3
+name	S12_R1
+bamfile	S12_R1.bam

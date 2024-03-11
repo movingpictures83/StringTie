@@ -1,0 +1,2 @@
+Prefix plugins/StringTie/example/
+Plugin StringTie inputfile parameters.txt outputfile S12_R1.sam

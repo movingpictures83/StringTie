@@ -1,0 +1,10 @@
+# stringtie -p 6 -G plugins/StringTie/example///Homo_sapiens.GRCh38.87.gff3 -o plugins/StringTie/example//S12_R1.sam -l S12_R1 plugins/StringTie/example///S12_R1.bam
+# StringTie version 2.2.1
+14	StringTie	transcript	49862550	49862849	1000	-	.	gene_id "S12_R1.1"; transcript_id "S12_R1.1.1"; reference_id "transcript:ENST00000490232"; ref_gene_id "gene:ENSG00000274012"; cov "1.738333"; FPKM "51723.785156"; TPM "261019.453125";
+14	StringTie	exon	49862550	49862849	1000	-	.	gene_id "S12_R1.1"; transcript_id "S12_R1.1.1"; exon_number "1"; reference_id "transcript:ENST00000490232"; ref_gene_id "gene:ENSG00000274012"; cov "1.738333";
+14	StringTie	transcript	49586580	49586878	1000	+	.	gene_id "S12_R1.2"; transcript_id "S12_R1.2.1"; reference_id "transcript:ENST00000618786"; ref_gene_id "gene:ENSG00000276168"; cov "1.744147"; FPKM "51896.777344"; TPM "261892.453125";
+14	StringTie	exon	49586580	49586878	1000	+	.	gene_id "S12_R1.2"; transcript_id "S12_R1.2.1"; exon_number "1"; reference_id "transcript:ENST00000618786"; ref_gene_id "gene:ENSG00000276168"; cov "1.744147";
+3	StringTie	transcript	15738515	15738809	1000	+	.	gene_id "S12_R1.3"; transcript_id "S12_R1.3.1"; reference_id "transcript:ENST00000584058"; ref_gene_id "gene:ENSG00000263740"; cov "1.003390"; FPKM "29855.687500"; TPM "150664.046875";
+3	StringTie	exon	15738515	15738809	1000	+	.	gene_id "S12_R1.3"; transcript_id "S12_R1.3.1"; exon_number "1"; reference_id "transcript:ENST00000584058"; ref_gene_id "gene:ENSG00000263740"; cov "1.003390";
+MT	StringTie	transcript	8366	8572	1000	+	.	gene_id "S12_R1.4"; transcript_id "S12_R1.4.1"; reference_id "transcript:ENST00000361851"; ref_gene_id "gene:ENSG00000228253"; cov "2.132646"; FPKM "63456.503906"; TPM "320227.531250";
+MT	StringTie	exon	8366	8572	1000	+	.	gene_id "S12_R1.4"; transcript_id "S12_R1.4.1"; exon_number "1"; reference_id "transcript:ENST00000361851"; ref_gene_id "gene:ENSG00000228253"; cov "2.132646";
